@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ruff_cache/
+.venv/
+mural*.json
+ata*.json
+build/
+dist/
+*.egg-info/
